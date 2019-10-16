@@ -6,7 +6,7 @@
 
     <groupId>dev.common</groupId>
     <artifactId>common</artifactId>
-    <version>1.5</version>
+    <version>1.6</version>
 
     <properties>
         <spring.version>5.0.5.RELEASE</spring.version>
